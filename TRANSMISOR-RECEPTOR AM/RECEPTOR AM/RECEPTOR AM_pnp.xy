@@ -1,0 +1,30 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=RECEPTOR AM
+# Date=13:41:20
+# CreatedBy=Fritzing 1.0.3b.2024-05-30.CD-1995-0-a7811ba0
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J2,";;;;;;;;","THT",200.076,1307.82,90,Top,THT
+LM741,";;;;;;;;","DIP (Dual Inline) [THT]",950,450.787,0,Top,THT
+C2,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",500,1150.79,90,Top,THT
+R3,"220;;;;;0.25W;;;","THT",600,400.787,90,Top,THT
+C5,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",1350,900.787,180,Top,THT
+R4,"220;;;;;0.25W;;;","THT",200,400.787,-90,Top,THT
+C6,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",1550,400.787,180,Top,THT
+J3,";;;;;;;;","THT",1499.92,1392.92,-90,Top,THT
+C1,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",500,1450.79,-90,Top,THT
+R2,"220;;;;;0.25W;;;","THT",400,400.787,-90,Top,THT
+R1,"220;;;;;0.25W;;;","THT",1300,400.787,90,Top,THT
+LM386,";;;;;;;;","DIP (Dual Inline) [THT]",950,1350.79,0,Top,THT
+LED1,";;;;0.030A;;;;","5 mm [THT]",200,873.582,180,Top,THT
+VR1,";;;;;;;;","3386u",949.861,901.489,180,Top,SMT

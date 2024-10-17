@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=SEGUIDOR_DE_VOLTAJE
+*Date=11:24:46
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;30.4811;-35.6179;0;Bottom;J1
+2;;dip08;19.0511;-21.6479;0;Bottom;LM358
+3;;;32.4834;-7.04445;0;Bottom;TXT1
+4;;THT;7.62113;-26.7279;0;Bottom;J4
+5;220;THT;19.0511;-12.8976;0;Bottom;R3
+6;220;THT;19.0511;-35.7576;0;Bottom;R1
+7;;THT;30.4811;-26.7279;0;Bottom;J2
+8;220;THT;19.0511;-7.81765;0;Bottom;R4
+9;220;THT;19.0511;-30.6776;0;Bottom;R2
+10;;THT;7.62113;-16.5679;0;Bottom;J5
+11;;THT;30.4811;-16.5679;0;Bottom;J3

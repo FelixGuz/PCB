@@ -1,0 +1,33 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=TRANSMISOR AM
+# Date=18:27:14
+# CreatedBy=Fritzing 1.0.3b.2024-05-30.CD-1995-0-a7811ba0
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+R1,"220;;;;;0.25W;;;","THT",1300,1100,90,Top,THT
+R2,"220;;;;;0.25W;;;","THT",500,400,90,Top,THT
+C3,";100nF;;35V;;;;;","200 mil [THT, multilayer]",700,200,0,Top,THT
+VR1,";;;;;;;;","3386u",1300,399.702,0,Top,SMT
+C1,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",500,1250,-90,Top,THT
+LM741,";;;;;;;;","DIP (Dual Inline) [THT]",850,550,0,Top,THT
+MIC,";;;;;;;;","",250,300,-90,Top,MANUAL
+R3,"220;;;;;0.25W;;;","THT",700,1100,-90,Top,THT
+R4,"220;;;;;0.25W;;;","THT",1100,1100,-90,Top,THT
+C2,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",500,950,90,Top,THT
+LED1,";;;;0.030A;;;;","5 mm [THT]",1674.36,300,-90,Top,THT
+J1,";;;;;;;;","THT",200.076,1107.04,90,Top,THT
+C4,";100nF;;35V;;;;;","200 mil [THT, multilayer]",1600,700,90,Top,THT
+VR2,";;;;;;;;","3386u",1300,699.702,0,Top,SMT
+R6,"220;;;;;0.25W;;;","THT",900,1100,-90,Top,THT
+R5,"220;;;;;0.25W;;;","THT",1500,1100,-90,Top,THT
+2N2222,";;;;;;;;","to-92-ammo",1681.13,1100,-90,Top,THT

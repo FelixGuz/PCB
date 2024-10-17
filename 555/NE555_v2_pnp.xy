@@ -1,0 +1,26 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=NE555_v2
+# Date=21:12:12
+# CreatedBy=Fritzing 1.0.3b.2024-05-30.CD-1995-0-a7811ba0
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J1,";;;;;;;;","THT",1099.92,1188.19,-90,Top,THT
+D1,";;;;;;;;","300 mil [THT]",350,747.063,90,Top,THT
+C 100nF,";100nF;;35V;;;;;","200 mil [THT, multilayer]",800,1196.06,90,Top,THT
+J2,";;;;;;;;","THT",1099.92,288.195,-90,Top,THT
+T_ON,";;;;;;;;","3386u",199.701,296.063,-90,Top,SMT
+NE555L,";;;;;;;;","DIP8 [THT]",800,746.063,180,Top,THT
+R 1kOhm,"220;;;;;0.25;;;","THT",500,396.063,-90,Top,THT
+C 100nF,";100nF;;35V;;;;;","200 mil [THT, multilayer]",800,296.063,90,Top,THT
+T_OFF,";;;;;;;;","3386u",199.499,1196.24,-90,Top,SMT
+R 1kOhm,"220;;;;;0.25;;;","THT",500,1096.06,90,Top,THT

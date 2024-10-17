@@ -1,0 +1,18 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch
+*Date=12:20:43
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;3V;;28.337;-4.59657;0;Bottom;VCC1
+2;0.030;5 mm [THT];26.488;-18.5666;90;Bottom;LED1
+3;220;THT;10.557;-18.5666;0;Bottom;R1

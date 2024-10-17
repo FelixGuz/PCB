@@ -1,0 +1,56 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=CIRCUITO DE CONTROL LINEAL
+# Date=21:36:17
+# CreatedBy=Fritzing 1.0.3b.2024-05-30.CD-1995-0-a7811ba0
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+P4,";;;;;;;;","3386u",2399.71,896.994,90,Top,SMT
+LM339,";;;;;;;;","DIP (Dual Inline) [THT]",1651.02,1296.66,0,Top,THT
+R9,"470;;;;;0.25W;;;","THT",901.024,1996.66,90,Top,THT
+P1,";;;;;;;;","3386u",899.701,896.994,90,Top,SMT
+R12,"470;;;;;0.25W;;;","THT",1501.02,1996.66,90,Top,THT
+R8,"220;;;;;0.25W;;;","THT",2301.02,1396.66,90,Top,THT
+R14,"470;;;;;0.25W;;;","THT",1801.02,1996.66,90,Top,THT
+C1,";1mF;;20V;;;;;","100 mil [THT, electrolytic]",200,2046.99,-90,Top,THT
+D1,";;;;;;;;","diode-1n4148",350,796.992,0,Top,SMT
+R2,"220;;;;;0.25W;;;","THT",2402.02,398.548,180,Top,THT
+IC4,";;;;;;;;","DIP (Dual Inline) [THT]",2400,2546.99,-90,Top,THT
+Q1,";;;;;;;;","to-92-ammo",1318.87,396.987,90,Top,THT
+J5,";;;;;;;;","THT",2407.87,2996.92,180,Top,THT
+R5,"220;;;;;0.25W;;;","THT",1001.02,1396.66,90,Top,THT
+C2,";1µF;;35V;;;;;","100 mil [THT, electrolytic]",1650,696.992,180,Top,THT
+J2,";;;;;;;;","THT",907.868,2996.92,180,Top,THT
+P3,";;;;;;;;","3386u",2000.73,896.66,90,Top,SMT
+IC2,";;;;;;;;","DIP (Dual Inline) [THT]",1400,2546.99,-90,Top,THT
+R6,"220;;;;;0.25W;;;","THT",1301.02,1396.66,90,Top,THT
+D2,";;;;;;;;","diode-1n4148",350,596.992,0,Top,SMT
+D3,";;;;;;;;","diode-1n4148",350,396.992,0,Top,SMT
+IC1,";;;;;;;;","DIP (Dual Inline) [THT]",900,2546.99,-90,Top,THT
+IC3,";;;;;;;;","DIP (Dual Inline) [THT]",1900,2546.99,-90,Top,THT
+LM7812,";;;5V;;;;;","to220-igo",187.5,2496.99,-90,Top,THT
+R1,"220;;;;;0.25W;;;","THT",900,396.992,0,Top,THT
+J1,";;;;;;;;","THT",223.584,1402.56,90,Top,THT
+J3,";;;;;;;;","THT",1407.87,2996.92,180,Top,THT
+R13,"470;;;;;0.25W;;;","THT",2201.02,1996.66,90,Top,THT
+R4,"220;;;;;0.25W;;;","THT",701.024,1396.66,90,Top,THT
+C3,";1mF;;35V;;;;;","100 mil [THT, electrolytic]",200,2946.99,90,Top,THT
+Q2,";;;;;;;;","to-92-ammo",1981.13,396.987,-90,Top,THT
+R15,"470;;;;;0.25W;;;","THT",2401.02,1996.66,90,Top,THT
+D4,";;;;;;;;","diode-1n4148",350,196.992,0,Top,SMT
+R15,"470;;;;;0.25W;;;","THT",2001.02,1996.66,90,Top,THT
+R3,"220;;;;;0.25W;;;","THT",2601.02,1396.66,90,Top,THT
+R11,"470;;;;;0.25W;;;","THT",1101.02,1996.66,90,Top,THT
+R10,"470;;;;;0.25W;;;","THT",1301.02,1996.66,90,Top,THT
+J4,";;;;;;;;","THT",1907.87,2996.92,180,Top,THT
+P2,";;;;;;;;","3386u",1300.73,896.66,90,Top,SMT
+R7,"220;;;;;0.25W;;;","THT",2001.02,1396.66,90,Top,THT

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1.39831in" version="1.2" baseProfile="tiny" viewBox="0 0 100.678 71.2698" x="0in" xmlns:svg="http://www.w3.org/2000/svg"  y="0in" height="0.989858in">
+ <g partID="57830">
+  <g  id="board">
+   <rect width="100.102" x="0.288"  y="0.288" fill-opacity="0.5" height="70.6938" stroke="black" stroke-width="0.5" id="boardoutline" fill="none"/>
+  </g>
+ </g>
+ <g partID="57871">
+  <g transform="translate(12.8253,15.5442)">
+   <g  id="copper1">
+    <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+    <circle  cy="3.096" r="1.98" cx="2.7" stroke="black" stroke-width="1.44" id="connector0pin" fill="none"/>
+    <circle  cy="3.096" r="1.98" cx="31.5" stroke="black" stroke-width="1.44" id="connector1pin" fill="none"/>
+   </g>
+  </g>
+ </g>
+ <g partID="57921">
+  <g transform="translate(83.8717,9.85256)">
+   <g transform="matrix(0,1,-1,0,0,0)">
+    <g  id="copper1">
+     <circle  cy="10.6336" r="1.7008" cx="8.7876" stroke="black" stroke-width="1.13384" id="connector1pad" fill="none"/>
+     <rect width="3.4016" x="7.0868"  y="8.9328" height="3.4016" stroke="black" stroke-width="1.13384" fill="none"/>
+     <circle  cy="3.5464" r="1.7008" cx="8.7876" stroke="black" stroke-width="1.13384" id="connector0pad" fill="none"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g partID="60701">
+  <g transform="translate(75.2853,49.6002)">
+   <g  id="copper1">
+    <g  id="copper0">
+     <rect width="4.176" x="2.952"  y="2.952" height="4.176" stroke="black" stroke-width="1.44" id="square" fill="none"/>
+     <circle  cy="5.04" r="2.088" cx="5.04" stroke="black" stroke-width="1.44" id="connector0pin" fill="none"/>
+     <circle  cy="12.24" r="2.088" cx="5.04" stroke="black" stroke-width="1.44" id="connector1pin" fill="none"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

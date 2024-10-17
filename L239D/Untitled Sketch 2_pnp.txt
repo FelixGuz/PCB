@@ -1,0 +1,28 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch 2
+*Date=19:36:49
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;9.58772;-12.4212;180;Bottom;J10
+2;;THT;56.5777;-31.4712;90;Bottom;J2
+3;;THT;45.1477;-22.5812;180;Bottom;J6
+4;;THT;68.0077;-12.4212;180;Bottom;J3
+5;;THT;9.58772;-22.5812;180;Bottom;J11
+6;;THT;21.0177;-31.4712;90;Bottom;J7
+7;;THT;68.0077;-22.5812;180;Bottom;J4
+8;;THT;32.4477;-12.4212;180;Bottom;J8
+9;;THT;32.4477;-22.5812;180;Bottom;J9
+10;;DIP (Dual Inline) [THT];21.0177;-17.5012;180;Bottom;IC2
+11;;THT;45.1477;-12.4212;180;Bottom;J5
+12;;THT;38.7977;-31.3442;90;Bottom;VCC-GND
+13;;DIP (Dual Inline) [THT];56.5777;-17.5012;180;Bottom;IC1
